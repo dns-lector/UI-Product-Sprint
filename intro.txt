@@ -1,0 +1,6 @@
+git config --global user.name "DNS"
+git config --global user.email "dns@itstep.academy"
+
+UI Product Sprint
+Розробка інтерфейсу користувача за ТЗ у Figma
+https://www.figma.com/design/nFZLWZ27nveAV1fRodzRX2/BAZA-R_Rozetka?node-id=593-2557&t=mK8cb9j2OjmzJPCB-0
