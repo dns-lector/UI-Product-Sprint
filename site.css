@@ -51,9 +51,10 @@ body {
     border-radius: 12px;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    justify-content: space-evenly;
     margin: 30px 0 0 55px;
     height: 627px;
+    padding: 0 34px;
     width: 325px;
 }
 .catalog a {
@@ -63,7 +64,12 @@ body {
     align-items: center;
     text-decoration: none;
 }
+.catalog a svg {
+    flex: 1;
+}
 .catalog a p {
+    flex: 7;
     margin: 0;
     padding: 0;
+    font-size: 12px;
 }
