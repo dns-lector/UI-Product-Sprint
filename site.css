@@ -53,3 +53,10 @@ body {
     height: 627px;
     width: 325px;
 }
+.catalog a {
+    color: #000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+}
