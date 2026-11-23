@@ -117,10 +117,16 @@ main {
     margin-right: 10px;
 }
 .col-2 {
-    background-color: gold;
     flex: 2;
     height: 100px;
+    display: flex;
+    flex-direction: column;
 }
+
+
+
+
+
 .col-3 {
     background-color: aqua;
     flex: 3;
