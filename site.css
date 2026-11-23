@@ -127,9 +127,21 @@ main {
     border: 1px solid #b1b1b1;
     border-radius: 15px; 
     flex: 1;
+    position: relative;
 }
-
-
+.col-2 svg {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+.col-2-1 img {
+    margin: 5px 37%;
+    width: 26%;
+}
+.col-2-2 img {
+    margin: 20px 15%;
+    width: 70%;
+}
 
 
 .col-3 {
